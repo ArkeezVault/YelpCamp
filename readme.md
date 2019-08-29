@@ -1,4 +1,6 @@
-YelpCamp - a web app to search for camping sites
+#YelpCamp - a web app to search for camping sites
+
+###Hosted at https://decsyelpcamp.herokuapp.com/
 
 Step 1: Setup initial routes:
 tasks:
